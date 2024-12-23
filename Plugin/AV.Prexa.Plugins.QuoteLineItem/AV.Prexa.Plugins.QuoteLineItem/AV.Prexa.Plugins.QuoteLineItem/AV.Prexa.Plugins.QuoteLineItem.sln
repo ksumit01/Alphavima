@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV.Prexa.Plugins.QuoteLineItem", "AV.Prexa.Plugins.QuoteLineItem.csproj", "{B742B038-DFA8-4EA3-8A81-07031FD1D354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B742B038-DFA8-4EA3-8A81-07031FD1D354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B742B038-DFA8-4EA3-8A81-07031FD1D354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B742B038-DFA8-4EA3-8A81-07031FD1D354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B742B038-DFA8-4EA3-8A81-07031FD1D354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC57760-0D6D-4E20-B9A1-03598E410FE9}
+	EndGlobalSection
+EndGlobal

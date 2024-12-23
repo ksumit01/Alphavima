@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ksumi\\Downloads\\AV.Prexa.Plugins.QuoteLineItem\\AV.Prexa.Plugins.QuoteLineItem\\AV.Prexa.Plugins.QuoteLineItem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B742B038-DFA8-4EA3-8A81-07031FD1D354}|AV.Prexa.Plugins.QuoteLineItem.csproj|c:\\users\\ksumi\\downloads\\av.prexa.plugins.quotelineitem\\av.prexa.plugins.quotelineitem\\av.prexa.plugins.quotelineitem\\rollupquotelineitemstoquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B742B038-DFA8-4EA3-8A81-07031FD1D354}|AV.Prexa.Plugins.QuoteLineItem.csproj|solutionrelative:rollupquotelineitemstoquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RollupQuoteLineItemsToQuote.cs",
+              "DocumentMoniker": "C:\\Users\\ksumi\\Downloads\\AV.Prexa.Plugins.QuoteLineItem\\AV.Prexa.Plugins.QuoteLineItem\\AV.Prexa.Plugins.QuoteLineItem\\RollupQuoteLineItemsToQuote.cs",
+              "RelativeDocumentMoniker": "RollupQuoteLineItemsToQuote.cs",
+              "ToolTip": "C:\\Users\\ksumi\\Downloads\\AV.Prexa.Plugins.QuoteLineItem\\AV.Prexa.Plugins.QuoteLineItem\\AV.Prexa.Plugins.QuoteLineItem\\RollupQuoteLineItemsToQuote.cs*",
+              "RelativeToolTip": "RollupQuoteLineItemsToQuote.cs*",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAmwL8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:14:55.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

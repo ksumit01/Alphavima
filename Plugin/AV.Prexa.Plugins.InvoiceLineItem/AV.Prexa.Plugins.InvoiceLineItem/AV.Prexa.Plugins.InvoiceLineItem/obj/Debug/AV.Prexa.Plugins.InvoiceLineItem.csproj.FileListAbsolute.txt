@@ -1,0 +1,90 @@
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.csproj.AssemblyReference.cache
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.csproj.CoreCompileInputs.cache
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\AV.Prexa.Plugins.InvoiceLineItem.dll.config
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\AV.Prexa.Plugins.InvoiceLineItem.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\AV.Prexa.Plugins.InvoiceLineItem.pdb
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Buffers.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Memory.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Json.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.ValueTuple.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Buffers.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Memory.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Json.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.ValueTuple.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.61F1D70D.Up2Date
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.pdb
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\AV.Prexa.Plugins.InvoiceLineItem.dll.config
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\AV.Prexa.Plugins.InvoiceLineItem.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\AV.Prexa.Plugins.InvoiceLineItem.pdb
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Buffers.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Memory.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Json.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.ValueTuple.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Buffers.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Memory.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Json.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.ValueTuple.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.csproj.AssemblyReference.cache
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.csproj.CoreCompileInputs.cache
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.61F1D70D.Up2Date
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.pdb
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\AV.Prexa.Plugins.InvoiceLineItem.dll.config
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\AV.Prexa.Plugins.InvoiceLineItem.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\AV.Prexa.Plugins.InvoiceLineItem.pdb
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Buffers.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Memory.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Numerics.Vectors.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Encodings.Web.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Json.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.ValueTuple.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Buffers.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Memory.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Numerics.Vectors.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Encodings.Web.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Text.Json.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\bin\Debug\System.ValueTuple.xml
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.csproj.AssemblyReference.cache
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.csproj.CoreCompileInputs.cache
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.61F1D70D.Up2Date
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.dll
+D:\Plugin Skyblack\AV.Prexa.Plugins.InvoiceLineItem (1)\AV.Prexa.Plugins.InvoiceLineItem\AV.Prexa.Plugins.InvoiceLineItem\obj\Debug\AV.Prexa.Plugins.InvoiceLineItem.pdb

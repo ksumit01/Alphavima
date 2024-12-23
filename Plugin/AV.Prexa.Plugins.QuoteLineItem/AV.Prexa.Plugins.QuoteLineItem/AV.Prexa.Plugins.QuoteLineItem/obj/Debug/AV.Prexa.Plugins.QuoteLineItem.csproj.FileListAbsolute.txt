@@ -1,0 +1,60 @@
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\AV.Prexa.Plugins.QuoteLineItem.dll.config
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\AV.Prexa.Plugins.QuoteLineItem.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\AV.Prexa.Plugins.QuoteLineItem.pdb
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Buffers.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Memory.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Text.Json.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.ValueTuple.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Buffers.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Memory.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Text.Json.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.ValueTuple.xml
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\obj\Debug\AV.Prexa.Plugins.QuoteLineItem.csproj.AssemblyReference.cache
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\obj\Debug\AV.Prexa.Plugins.QuoteLineItem.csproj.CoreCompileInputs.cache
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\obj\Debug\AV.Prexa.22FFF61C.Up2Date
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\obj\Debug\AV.Prexa.Plugins.QuoteLineItem.dll
+C:\Users\RohitRamawat\Documents\Skyblack Plugins\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\obj\Debug\AV.Prexa.Plugins.QuoteLineItem.pdb
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\AV.Prexa.Plugins.QuoteLineItem.dll.config
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\AV.Prexa.Plugins.QuoteLineItem.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\AV.Prexa.Plugins.QuoteLineItem.pdb
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Buffers.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Memory.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Text.Json.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.ValueTuple.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Buffers.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Memory.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Text.Json.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\bin\Debug\System.ValueTuple.xml
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\obj\Debug\AV.Prexa.Plugins.QuoteLineItem.csproj.AssemblyReference.cache
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\obj\Debug\AV.Prexa.Plugins.QuoteLineItem.csproj.CoreCompileInputs.cache
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\obj\Debug\AV.Prexa.22FFF61C.Up2Date
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\obj\Debug\AV.Prexa.Plugins.QuoteLineItem.dll
+C:\Users\ksumi\Downloads\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\AV.Prexa.Plugins.QuoteLineItem\obj\Debug\AV.Prexa.Plugins.QuoteLineItem.pdb
