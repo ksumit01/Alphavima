@@ -1,0 +1,12 @@
+C:\Users\ksumi\source\repos\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.csproj.AssemblyReference.cache
+C:\Users\ksumi\source\repos\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.csproj.CoreCompileInputs.cache
+C:\Users\ksumi\source\repos\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.dll
+C:\Users\ksumi\source\repos\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.pdb
+C:\Users\ksumi\source\repos\Prexa 365-V2\Workflow Assemblies\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.csproj.AssemblyReference.cache
+C:\Users\ksumi\source\repos\Prexa 365-V2\Workflow Assemblies\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.csproj.CoreCompileInputs.cache
+C:\Users\ksumi\source\repos\Prexa 365-V2\Workflow Assemblies\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.dll
+C:\Users\ksumi\source\repos\Prexa 365-V2\Workflow Assemblies\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.pdb
+D:\Populate WorkFlow Alltura\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.csproj.AssemblyReference.cache
+D:\Populate WorkFlow Alltura\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.csproj.CoreCompileInputs.cache
+D:\Populate WorkFlow Alltura\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.dll
+D:\Populate WorkFlow Alltura\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\AV.Prexa.SalesOrder.PopulateWordTemplate\obj\Debug\AV.Prexa.SalesOrder.PopulateWordTemplate.pdb
