@@ -1,0 +1,16 @@
+C:\Users\ksumi\source\repos\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.csproj.AssemblyReference.cache
+C:\Users\ksumi\source\repos\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.csproj.CoreCompileInputs.cache
+C:\Users\ksumi\source\repos\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.dll
+C:\Users\ksumi\source\repos\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.pdb
+C:\Users\ksumi\source\repos\Prexa 365-V2\Workflow Assemblies\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.csproj.AssemblyReference.cache
+C:\Users\ksumi\source\repos\Prexa 365-V2\Workflow Assemblies\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.csproj.CoreCompileInputs.cache
+C:\Users\ksumi\source\repos\Prexa 365-V2\Workflow Assemblies\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.dll
+C:\Users\ksumi\source\repos\Prexa 365-V2\Workflow Assemblies\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.pdb
+C:\Users\RohitRamawat\Documents\Template Plugins\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.csproj.AssemblyReference.cache
+C:\Users\RohitRamawat\Documents\Template Plugins\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.csproj.CoreCompileInputs.cache
+C:\Users\RohitRamawat\Documents\Template Plugins\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.dll
+C:\Users\RohitRamawat\Documents\Template Plugins\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.pdb
+D:\Prexa\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.csproj.AssemblyReference.cache
+D:\Prexa\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.csproj.CoreCompileInputs.cache
+D:\Prexa\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.dll
+D:\Prexa\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\AV.Prexa.Invoice.PopulateWordTemplate\obj\Debug\AV.Prexa.Invoice.PopulateWordTemplate.pdb

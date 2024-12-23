@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Prexa\\AV.Prexa.TransportTicket.PopulateWordTemplate\\AV.Prexa.TransportTicket.PopulateWordTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FA0FF3-7D41-47B4-9CD4-2520D26EBB7C}|AV.Prexa.TransportTicket.PopulateWordTemplate\\AV.Prexa.TransportTicket.PopulateWordTemplate.csproj|d:\\prexa\\av.prexa.transportticket.populatewordtemplate\\av.prexa.transportticket.populatewordtemplate\\av.prexa.transportticket.populatewordtemplate\\populatewordtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FA0FF3-7D41-47B4-9CD4-2520D26EBB7C}|AV.Prexa.TransportTicket.PopulateWordTemplate\\AV.Prexa.TransportTicket.PopulateWordTemplate.csproj|solutionrelative:av.prexa.transportticket.populatewordtemplate\\populatewordtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PopulateWordTemplate.cs",
+              "DocumentMoniker": "D:\\Prexa\\AV.Prexa.TransportTicket.PopulateWordTemplate\\AV.Prexa.TransportTicket.PopulateWordTemplate\\AV.Prexa.TransportTicket.PopulateWordTemplate\\PopulateWordTemplate.cs",
+              "RelativeDocumentMoniker": "AV.Prexa.TransportTicket.PopulateWordTemplate\\PopulateWordTemplate.cs",
+              "ToolTip": "D:\\Prexa\\AV.Prexa.TransportTicket.PopulateWordTemplate\\AV.Prexa.TransportTicket.PopulateWordTemplate\\AV.Prexa.TransportTicket.PopulateWordTemplate\\PopulateWordTemplate.cs",
+              "RelativeToolTip": "AV.Prexa.TransportTicket.PopulateWordTemplate\\PopulateWordTemplate.cs",
+              "ViewState": "AQIAACQEAAAAAAAAAAAywC8EAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:00:54.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
